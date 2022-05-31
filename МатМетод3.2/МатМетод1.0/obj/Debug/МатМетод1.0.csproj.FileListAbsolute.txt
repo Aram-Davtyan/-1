@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\bin\Debug\МатМетод1.0.exe.config
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\bin\Debug\МатМетод1.0.exe
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\bin\Debug\МатМетод1.0.pdb
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1.0.csprojAssemblyReference.cache
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1._0.Form1.resources
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1._0.Properties.Resources.resources
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1.0.csproj.GenerateResource.cache
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1.0.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1.0.exe
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1.0.pdb
+C:\Users\1\Desktop\МатМетод1.0\МатМетод1.0\obj\Debug\МатМетод1._0.FormOprogramme.resources
